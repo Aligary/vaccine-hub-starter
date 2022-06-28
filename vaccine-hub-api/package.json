@@ -1,7 +1,6 @@
 {
   "name": "vaccine-hub-api",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +18,6 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.18",
     "pg": "^8.7.3"
-  }
+  },
+  "description": ""
 }
